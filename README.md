@@ -2,4 +2,4 @@
 
 [![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)
 
-[新版ShareList](https://github.com/reruin/sharelist-heroku/tree/next)
+[新版ShareList](https://github.com/live2364li/yunpanduijie/tree/next)
